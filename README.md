@@ -7,7 +7,6 @@
 🏔️ Mountain Boy <br/>
 
 ### 🧠 [LeetCode](https://leetcode.com/u/sahilkholia/) 🧩 <br/>
-![Leetcode Stats](https://leetcode.com/u/sahilkholia/)
 
 
 ## 🌐 Socials:
